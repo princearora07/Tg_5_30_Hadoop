@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Tg_5_30_Hadoop1.iml" filepath="$PROJECT_DIR$/.idea/Tg_5_30_Hadoop1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tg_5_30_Hadoop.iml" filepath="$PROJECT_DIR$/Tg_5_30_Hadoop.iml" />
     </modules>
   </component>
 </project>
