@@ -1,1 +1,2 @@
-echo "Hi this is first git script";
+echo "Hi !!! This is first script";
+echo "hello everyone";
